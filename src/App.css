@@ -83,4 +83,15 @@ a{ text-decoration:none;
  
   margin: auto;
 } */
+.fixedContainer {
+  position: sticky;
+  left: 50%;
+  top: 0%;
+  margin-left: 300px; /*half the width*/
+  z-index: 100;
+}
 
+.chatbotCSS{
+  position: sticky;
+  z-index: 100;
+}

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/haoliweb/static/css/main.598f8539.chunk.css",
-    "main.js": "/haoliweb/static/js/main.d6692055.chunk.js",
-    "main.js.map": "/haoliweb/static/js/main.d6692055.chunk.js.map",
+    "main.js": "/haoliweb/static/js/main.cf7c90bf.chunk.js",
+    "main.js.map": "/haoliweb/static/js/main.cf7c90bf.chunk.js.map",
     "runtime-main.js": "/haoliweb/static/js/runtime-main.06e31f69.js",
     "runtime-main.js.map": "/haoliweb/static/js/runtime-main.06e31f69.js.map",
     "static/css/2.44ff4af0.chunk.css": "/haoliweb/static/css/2.44ff4af0.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.44ff4af0.chunk.css",
     "static/js/2.7e1adb06.chunk.js",
     "static/css/main.598f8539.chunk.css",
-    "static/js/main.d6692055.chunk.js"
+    "static/js/main.cf7c90bf.chunk.js"
   ]
 }

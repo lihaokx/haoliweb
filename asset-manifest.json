@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/haoliweb/static/css/main.598f8539.chunk.css",
+    "main.js": "/haoliweb/static/js/main.d6692055.chunk.js",
+    "main.js.map": "/haoliweb/static/js/main.d6692055.chunk.js.map",
+    "runtime-main.js": "/haoliweb/static/js/runtime-main.06e31f69.js",
+    "runtime-main.js.map": "/haoliweb/static/js/runtime-main.06e31f69.js.map",
+    "static/css/2.44ff4af0.chunk.css": "/haoliweb/static/css/2.44ff4af0.chunk.css",
+    "static/js/2.7e1adb06.chunk.js": "/haoliweb/static/js/2.7e1adb06.chunk.js",
+    "static/js/2.7e1adb06.chunk.js.map": "/haoliweb/static/js/2.7e1adb06.chunk.js.map",
+    "static/js/3.f8f0f6ae.chunk.js": "/haoliweb/static/js/3.f8f0f6ae.chunk.js",
+    "static/js/3.f8f0f6ae.chunk.js.map": "/haoliweb/static/js/3.f8f0f6ae.chunk.js.map",
+    "index.html": "/haoliweb/index.html",
+    "static/css/2.44ff4af0.chunk.css.map": "/haoliweb/static/css/2.44ff4af0.chunk.css.map",
+    "static/css/main.598f8539.chunk.css.map": "/haoliweb/static/css/main.598f8539.chunk.css.map",
+    "static/js/2.7e1adb06.chunk.js.LICENSE.txt": "/haoliweb/static/js/2.7e1adb06.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/haoliweb/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.6ce24c58.svg": "/haoliweb/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06e31f69.js",
+    "static/css/2.44ff4af0.chunk.css",
+    "static/js/2.7e1adb06.chunk.js",
+    "static/css/main.598f8539.chunk.css",
+    "static/js/main.d6692055.chunk.js"
+  ]
+}

@@ -11,7 +11,7 @@ const Projects = () => {
         <Card className="projectCard col col-md-10 mx-auto">
             <Row className="justify-content-center align-items-center"> 
                 <Col  md={3}>
-                    <CardImg left width="100%" src="/homepageContent.png" />
+                    <CardImg left width="100%" src="homepageContent.png" />
                 </Col> 
                 <Col  md={6}>
                     <CardBody    >
@@ -81,7 +81,7 @@ const Projects = () => {
         <Card className="projectCard col col-md-10 mx-auto">
             <Row className="justify-content-center align-items-center"> 
                 <Col  md={3}>
-                    <CardImg left width="100%" src="/restaurantWeb.png" />
+                    <CardImg left width="100%" src="./restaurantWeb.png" />
                 </Col> 
                 <Col  md={6}>
                     <CardBody    >

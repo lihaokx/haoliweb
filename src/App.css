@@ -69,29 +69,85 @@ a{ text-decoration:none;
   margin-bottom:10px;
   height:40px;
   width:80px;
+  background-color: #ffffff;
+color: #0a66c2;
+
 }
 
-.jumbotron{
+/* .jumbotron{
   background-color: #73b5cf;
-}
-/* 
-.headerJumbotron {
-  background-image: url("giphy.gif");
-  background-size: cover;
 } */
-/* .projectCard{
- 
-  margin: auto;
-} */
-.fixedContainer {
-  position: sticky;
-  left: 50%;
-  top: 0%;
-  margin-left: 300px; /*half the width*/
-  z-index: 100;
+
+/* .headerJumbotron {
+  background-image: url( '/keyboard.jpg');
+  /* background-size: cover; */
+/* } */ 
+.projectCard{
+  background-color:  rgb(255, 255, 255);
+  transition: box-shadow .6s;
 }
 
+
+.projectCard:hover {
+  box-shadow: 0 0 20px rgba(33,33,33,.5); 
+}
+ 
 .chatbotCSS{
-  position: sticky;
-  z-index: 100;
+  margin: 0 0;
+  /* display: flex; */
+  /* justify-content: center; */
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  height: 5rem;
+  width:5rem;
+  right: 5rem;
+  bottom: 20px;
+  z-index: 9999;
+  box-shadow: 5px 5px 13px rgb(91 81 81 / 40%);
+  border-radius: 50px;
+}
+
+.chatbotCSS:hover {
+  box-shadow: 0 0 80px #0a66c2;
+  background-color: rgb(255, 255, 255);
+}
+.botIcon{
+  color:#0a66c2;
+}
+
+.headerText{
+  color: black;
+  background-color:cornsilk;
+  font-size: 80px;
+}
+
+hr{
+  width:30%;
+  margin: auto;
+}
+.educationContainer{
+  margin-top: 2rem;
+}
+
+li{
+  font-size: 1.1rem;
+}
+.CardTextClass{
+  font-size: 1.1rem;
+}
+.CardTitleClass, h2{
+  color:#0a66c2;
+}
+
+.mainCard{
+  border-radius: 30px 0px 30px 0px;
+}
+
+.projectImg{
+  border-radius: 20px 20px 20px 20px;
+}
+
+.projectImg:hover {
+  transform: scale(1.05); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  transition-duration: 1s;
 }

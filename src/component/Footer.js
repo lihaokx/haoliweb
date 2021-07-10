@@ -4,6 +4,11 @@ import {Jumbotron} from 'reactstrap';
 
 function Footer() {
     return(
+    <div>
+    <hr></hr>
+          <h2>Contact Me</h2>
+          <hr></hr>
+          <br></br>
         <Jumbotron> 
         <div className="container">
             <div className="row  justify-content-center">  
@@ -58,8 +63,9 @@ function Footer() {
                 </div>
             </div>
         </div>
-    
+      
     </Jumbotron>
+    </div> 
     )
 }
 

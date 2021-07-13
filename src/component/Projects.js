@@ -90,13 +90,13 @@ const Projects = () => {
             <Row className="  align-items-center"> 
                 <Col  md={4} className="mx-md-3 my-3">
                     <a  href="https://lihaokx.github.io/react_website/" target="_blank">
-                        <CardImg className="projectImg" left width="100%" src={process.env.PUBLIC_URL +'/' +"./restaurantWeb.png" }/>
+                        <CardImg className="projectImg" left width="100%" src={process.env.PUBLIC_URL +'/' +"./myRestaurantHome.png" }/>
                     </a>
                 </Col> 
                 <Col  md={7}>
                     <CardBody    >
                         <CardTitle tag="h5">Restaurant Website</CardTitle>
-                        <CardSubtitle tag="h6" className="mb-2 text-muted"><i className="  fa fa-flag  fa-1x"> </i> &nbsp; React, redux, thunk, reactstrap, server communication  </CardSubtitle>
+                        <CardSubtitle tag="h6" className="mb-2 text-muted"><i className="  fa fa-flag  fa-1x"> </i> &nbsp; React, Google map API, redux, thunk, reactstrap, server communication   </CardSubtitle>
                         <CardText className="li-text-left CardTextClass">
                             A one-page restaurant website. <br></br>
                             Implement Redux to monitor global states. <br></br>

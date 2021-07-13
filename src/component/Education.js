@@ -17,7 +17,7 @@ import {    Card, CardImg, CardText, CardBody,
                         <Card  body className="justify-content-center" >
                             <CardTitle tag="h4" className= "CardTitleClass">Self-taught Coder</CardTitle>
                             <CardText className="CardTextClass">Coursera<br></br>
-                                Aug 2019 - Present 2021</CardText>
+                                April 2020 - Present 2021</CardText>
                         </Card>
                     </Col> 
 

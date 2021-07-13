@@ -10,11 +10,11 @@ import { useState } from 'react';
 const Header = () => {
     return(
     <React.Fragment>
-      <Jumbotron  className="headerJumbotron my-auto"  style={{backgroundImage: `url(${process.env.PUBLIC_URL + '/keyboard.jpg'})`  ,backgroundSize: 'cover', backgroundPosition: 'center'  }} >
-           <div className="container"  >
+      <Jumbotron  className="headerJumbotron my-auto "  style={{backgroundImage: `url(${process.env.PUBLIC_URL + '/keyboard.jpg'})`  ,backgroundSize: 'cover', backgroundPosition: 'center'  }} >
+           <div className="container "  >
                <div className="row row-header">
-                   <div className="col-12 col-sm-12">
-                       <h1  className="headerText" >Welcome to Hao Li's Website</h1>
+                   <div className="col-12 col-sm-9  off ">
+                       <h1  className="headerText " >Welcome to Hao Li's Website</h1>
                    </div>
                </div>
            </div>

@@ -117,8 +117,9 @@ color: #0a66c2;
 
 .headerText{
   color: black;
-  background-color:cornsilk;
-  font-size: 80px;
+  background-color:rgb(245, 243, 236);
+  font-size: 70px;
+  border-radius: 2rem;
 }
 
 hr{

@@ -21,7 +21,7 @@ const ChatBot = () => {
                 </div>       
             </Popover>
             <Button className ="chatbotCSS"   id="PopoverClick" type="button" >
-                <FaRobot className ="botIcon" size="2x"/>
+                <FaRobot className ="botIcon" size={50}/>
             </Button>
         </React.Fragment>
 

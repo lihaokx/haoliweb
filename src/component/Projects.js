@@ -15,14 +15,14 @@ const Projects = () => {
         <Card className="projectCard col-10 mainCard">
             <Row className=" align-items-center"> 
                 <Col  md={4} className="mx-md-3 my-3" >
-                <a  href="https://lihaokx.github.io/time-event-log/" target="_blank">
-                    <CardImg className="projectImg" left width="100%" src={process.env.PUBLIC_URL +'/' +"/homepageContent.png" }/>
+                <a  href="http://haoliweb.com/time-event-log/" target="_blank">
+                    <CardImg className="projectImg"   width="100%" src={process.env.PUBLIC_URL +'/' +"/homeTimeEvent.png" }/>
                 </a>
                 </Col> 
                 <Col  md={7} >
                     <CardBody    >
                         <CardTitle tag="h5">Time-Event Log</CardTitle>
-                        <CardSubtitle tag="h6" className="mb-2 text-muted"><i className="  fa fa-flag  fa-1x"> </i> &nbsp; React, redux, redux-form, thunk, reactstrap</CardSubtitle>
+                        <CardSubtitle tag="h6" className="mb-2 text-muted"><i className="  fa fa-flag  fa-1x"> </i> &nbsp; React, redux, thunk, User authentication, Restful API, MongoDB</CardSubtitle>
                         <CardText className="li-text-left CardTextClass">
                             A tool used to improve working efficiency. We can use it to record time and events of our daily life.
                             These things include start moment, stop moment, event, time consumed and importance of the events.
@@ -31,7 +31,7 @@ const Projects = () => {
                         </CardText>
                         <Row className="justify-content-center"> 
                             <Col  md={3}>
-                                <a href="https://lihaokx.github.io/time-event-log/" target="_blank">
+                                <a href="http://haoliweb.com/time-event-log/" target="_blank">
                                 <Button className="projectButton"> Live</Button> 
                                 </a>
                             </Col>
@@ -52,7 +52,7 @@ const Projects = () => {
             <Row className=" align-items-center"> 
                 <Col  md={4}  className="mx-md-3 my-3">
                     <a  href="https://www.dukelearntoprogram.com//capstone/recommender.php?id=WFx9MjTmtzvgdy" target="_blank">
-                    <CardImg className="projectImg" left width="100%" src={process.env.PUBLIC_URL +'/' +"./movieRecommend.jpg"} />
+                    <CardImg className="projectImg"   width="100%" src={process.env.PUBLIC_URL +'/' +"./movieRecommend.jpg"} />
                     </a>
                 </Col> 
                 <Col  md={7}>
@@ -90,7 +90,7 @@ const Projects = () => {
             <Row className="  align-items-center"> 
                 <Col  md={4} className="mx-md-3 my-3">
                     <a  href="https://lihaokx.github.io/react_website/" target="_blank">
-                        <CardImg className="projectImg" left width="100%" src={process.env.PUBLIC_URL +'/' +"./myRestaurantHome.png" }/>
+                        <CardImg className="projectImg"   width="100%" src={process.env.PUBLIC_URL +'/' +"./myRestaurantHome.png" }/>
                     </a>
                 </Col> 
                 <Col  md={7}>

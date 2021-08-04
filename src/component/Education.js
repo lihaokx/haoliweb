@@ -1,6 +1,6 @@
 import React from 'react';
-import {    Card, CardImg, CardText, CardBody,
-    CardTitle, CardSubtitle, Col, Row, Button, List} from 'reactstrap';const Education = () => {
+import {    Card,  CardText, 
+    CardTitle,  Col, Row,  List} from 'reactstrap';const Education = () => {
   return (
     
     <div >
@@ -25,7 +25,7 @@ import {    Card, CardImg, CardText, CardBody,
                         <div>
                         <List className="li-text-left mb-0" >
                             <li className="li-text-left">Front-end:  HTML, CSS, JS, React, Bootstrap, Redux, JQuery</li>
-                            <li className="li-text-left">Back-end: Java, JavaScript, Python</li>
+                            <li className="li-text-left">Back-end: Java, Restful API, Mongoose, Express framework, Python</li>
                             <li className="li-text-left">Database： MongoDB, SQL</li>
                             <li className="li-text-left">Data Science: Scikit-learn, Gensim, NLTK, Pandas </li>
                             <li className="li-text-left">Visualization: Matplotlib, Seaborn </li>

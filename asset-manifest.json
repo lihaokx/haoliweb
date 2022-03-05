@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/haoliweb/static/css/main.f7727752.chunk.css",
-    "main.js": "/haoliweb/static/js/main.7fe1205d.chunk.js",
-    "main.js.map": "/haoliweb/static/js/main.7fe1205d.chunk.js.map",
+    "main.js": "/haoliweb/static/js/main.4dc50203.chunk.js",
+    "main.js.map": "/haoliweb/static/js/main.4dc50203.chunk.js.map",
     "runtime-main.js": "/haoliweb/static/js/runtime-main.68d6888b.js",
     "runtime-main.js.map": "/haoliweb/static/js/runtime-main.68d6888b.js.map",
     "static/css/2.b238fa0a.chunk.css": "/haoliweb/static/css/2.b238fa0a.chunk.css",
-    "static/js/2.1dcdd8c9.chunk.js": "/haoliweb/static/js/2.1dcdd8c9.chunk.js",
-    "static/js/2.1dcdd8c9.chunk.js.map": "/haoliweb/static/js/2.1dcdd8c9.chunk.js.map",
+    "static/js/2.122ebbc8.chunk.js": "/haoliweb/static/js/2.122ebbc8.chunk.js",
+    "static/js/2.122ebbc8.chunk.js.map": "/haoliweb/static/js/2.122ebbc8.chunk.js.map",
     "static/js/3.c7c1d704.chunk.js": "/haoliweb/static/js/3.c7c1d704.chunk.js",
     "static/js/3.c7c1d704.chunk.js.map": "/haoliweb/static/js/3.c7c1d704.chunk.js.map",
     "index.html": "/haoliweb/index.html",
     "static/css/2.b238fa0a.chunk.css.map": "/haoliweb/static/css/2.b238fa0a.chunk.css.map",
     "static/css/main.f7727752.chunk.css.map": "/haoliweb/static/css/main.f7727752.chunk.css.map",
-    "static/js/2.1dcdd8c9.chunk.js.LICENSE.txt": "/haoliweb/static/js/2.1dcdd8c9.chunk.js.LICENSE.txt",
+    "static/js/2.122ebbc8.chunk.js.LICENSE.txt": "/haoliweb/static/js/2.122ebbc8.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/haoliweb/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.68d6888b.js",
     "static/css/2.b238fa0a.chunk.css",
-    "static/js/2.1dcdd8c9.chunk.js",
+    "static/js/2.122ebbc8.chunk.js",
     "static/css/main.f7727752.chunk.css",
-    "static/js/main.7fe1205d.chunk.js"
+    "static/js/main.4dc50203.chunk.js"
   ]
 }

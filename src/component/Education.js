@@ -1,6 +1,6 @@
 import React from 'react';
 import {    Card,  CardText, 
-    CardTitle,  Col, Row,  List} from 'reactstrap';const Education = () => {
+    CardTitle, CardImg, Col, Row,  List} from 'reactstrap';const Education = () => {
   return (
     
     <div >
@@ -12,11 +12,22 @@ import {    Card,  CardText,
             <div className="row my-4 mx-md-5">
             <Card className="projectCard  col-10 mainCard">
                 <Row className=" align-items-center"> 
-                    <Col  md={4} className="my-3" >
-                        <Card  body className="justify-content-center" >
-                            <CardTitle tag="h4" className= "CardTitleClass">Backend Intern</CardTitle>
-                            <CardText className="CardTextClass">Shopify<br></br>
-                                Jan 2022 - Apr 2022</CardText>
+                    <Col md={4} className="my-3" >
+                        <Card body  className="justify-content-center" >
+                            <Row className=" align-items-center"> 
+                                <Col  xs={3}  className="my-3 px-0" >
+                                    <CardImg 
+                                        src={process.env.PUBLIC_URL +'/' +"./shopify_glyph.png" }
+                                        top
+                                        width="100%"
+                                    />
+                                </Col>
+                                <Col  xs={9} className="my-3 px-0" >
+                                <CardTitle className= "CardTitleClass"><strong>Backend Intern</strong></CardTitle>
+                                <CardText  ><strong>Shopify</strong><br></br>
+                                    Jan 2022 - Apr 2022</CardText>
+                                </Col>
+                            </Row >
                         </Card>
                     </Col> 
 
@@ -40,9 +51,20 @@ invalid domain.</li>
                 <Row className=" align-items-center"> 
                     <Col  md={4} className="my-3" >
                         <Card  body className="justify-content-center" >
-                            <CardTitle tag="h4" className= "CardTitleClass">Full-stack Developer</CardTitle>
-                            <CardText className="CardTextClass">TutorOcean<br></br>
-                                Oct 2021 - Dec 2021</CardText>
+                            <Row className=" align-items-center"> 
+                                <Col  xs={3}  className="my-3 px-0" >
+                                    <CardImg 
+                                        src={process.env.PUBLIC_URL +'/' +"./tutorocean.png" }
+                                        top
+                                        width="100%"
+                                    />
+                                </Col>
+                                <Col  xs={9} className="my-3 px-0" >
+                                    <CardTitle  className= "CardTitleClass"><strong>Full-stack Developer</strong></CardTitle>
+                                    <CardText ><strong>TutorOcean</strong><br></br>
+                                    Oct 2021 - Dec 2021</CardText>
+                                </Col>
+                            </Row>
                         </Card>
                     </Col> 
 
@@ -66,9 +88,20 @@ tutors. It reduced their repetitive work dramatically.</li>
                 <Row className=" align-items-center"> 
                     <Col  md={4} className="my-3" >
                         <Card  body className="justify-content-center" >
-                            <CardTitle tag="h4" className= "CardTitleClass">Self-taught Coder</CardTitle>
-                            <CardText className="CardTextClass">Coursera<br></br>
-                                April 2020 - Present 2021</CardText>
+                            <Row className=" align-items-center"> 
+                                <Col  xs={3}  className="my-3 px-0" >
+                                    <CardImg 
+                                        src={process.env.PUBLIC_URL +'/' +"./coursera.png" }
+                                        top
+                                        width="100%"
+                                    />
+                                </Col>
+                                <Col  xs={9} className="my-3 px-0" >
+                                    <CardTitle className= "CardTitleClass"><strong>Self-taught Coder</strong></CardTitle>
+                                    <CardText ><strong>Coursera</strong><br></br>
+                                        Apr 2020 - Present</CardText>
+                                </Col>
+                            </Row>
                         </Card>
                     </Col> 
 
@@ -96,9 +129,20 @@ tutors. It reduced their repetitive work dramatically.</li>
                 <Row className=" align-items-center"> 
                     <Col    md={4} className=" my-3">
                         <Card body className="justify-content-center">
-                            <CardTitle tag="h4" className= "CardTitleClass">Master of Engineering</CardTitle>
-                            <CardText className="CardTextClass">University of Ottawa<br></br>
-                                Sep 2019 - Mar 2021</CardText>
+                            <Row className=" align-items-center"> 
+                                <Col  xs={3}  className="my-3 px-0" >
+                                    <CardImg 
+                                        src={process.env.PUBLIC_URL +'/' +"./UOttawa.png" }
+                                        top
+                                        width="100%"
+                                    />
+                                </Col>
+                                <Col  xs={9} className="my-3 px-0" >
+                                    <CardTitle  className= "CardTitleClass"><strong>Master of Engineering</strong></CardTitle>
+                                    <CardText ><strong>University of Ottawa</strong><br></br>
+                                        Sep 2019 - Mar 2021</CardText>
+                                </Col>
+                            </Row>
                         </Card>
                     </Col> 
 
@@ -123,9 +167,20 @@ tutors. It reduced their repetitive work dramatically.</li>
                 <Row className=" align-items-center"> 
                     <Col   md={4} className=" my-3">
                         <Card body className="justify-content-center">
-                            <CardTitle tag="h4" className= "CardTitleClass">Physics Teacher</CardTitle>
-                            <CardText  className="CardTextClass">New Oriental Education & Technology Group<br></br>
-                                Sep 2015 - Aug 2019</CardText>
+                            <Row className=" align-items-center"> 
+                                <Col  xs={3}  className="my-3 px-0" >
+                                    <CardImg 
+                                        src={process.env.PUBLIC_URL +'/' +"./xdf.jpeg" }
+                                        top
+                                        width="100%"
+                                    />
+                                </Col>
+                                <Col  xs={9} className="my-3 px-0" >
+                                    <CardTitle  className= "CardTitleClass"><strong>Physics Teacher</strong></CardTitle>
+                                    <CardText><strong>New Oriental Education</strong><br></br>
+                                        Sep 2015 - Aug 2019</CardText>
+                                </Col>
+                            </Row>
                         </Card>
                     </Col> 
 

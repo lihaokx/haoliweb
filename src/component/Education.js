@@ -23,9 +23,9 @@ import {    Card,  CardText,
                                     />
                                 </Col>
                                 <Col  xs={9} className="my-3 px-0" >
-                                <CardTitle className= "CardTitleClass"><strong>Backend Intern</strong></CardTitle>
+                                <CardTitle className= "CardTitleClass"><strong>Backend Developer</strong></CardTitle>
                                 <CardText  ><strong>Shopify</strong><br></br>
-                                    Jan 2022 - Apr 2022</CardText>
+                                    Jan 2022 - Present</CardText>
                                 </Col>
                             </Row >
                         </Card>

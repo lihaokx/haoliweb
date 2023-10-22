@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/haoliweb/static/css/main.f7727752.chunk.css",
+    "main.css": "/haoliweb/static/css/main.92b2c113.chunk.css",
     "main.js": "/haoliweb/static/js/main.c8710268.chunk.js",
     "main.js.map": "/haoliweb/static/js/main.c8710268.chunk.js.map",
     "runtime-main.js": "/haoliweb/static/js/runtime-main.68d6888b.js",
@@ -12,7 +12,7 @@
     "static/js/3.c7c1d704.chunk.js.map": "/haoliweb/static/js/3.c7c1d704.chunk.js.map",
     "index.html": "/haoliweb/index.html",
     "static/css/2.b238fa0a.chunk.css.map": "/haoliweb/static/css/2.b238fa0a.chunk.css.map",
-    "static/css/main.f7727752.chunk.css.map": "/haoliweb/static/css/main.f7727752.chunk.css.map",
+    "static/css/main.92b2c113.chunk.css.map": "/haoliweb/static/css/main.92b2c113.chunk.css.map",
     "static/js/2.122ebbc8.chunk.js.LICENSE.txt": "/haoliweb/static/js/2.122ebbc8.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/haoliweb/static/media/fontawesome-webfont.f691f37e.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.68d6888b.js",
     "static/css/2.b238fa0a.chunk.css",
     "static/js/2.122ebbc8.chunk.js",
-    "static/css/main.f7727752.chunk.css",
+    "static/css/main.92b2c113.chunk.css",
     "static/js/main.c8710268.chunk.js"
   ]
 }

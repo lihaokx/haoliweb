@@ -36,8 +36,6 @@ import {    Card,  CardText,
                         <List className="li-text-left mb-0" >
                             <li className="li-text-left">Implemented and optimized identity authentication flow for a novel login portal by Ruby on Rails. It reduced the risk of
 information leak.</li>
-                            <li className="li-text-left">Built a domain-checking and type-checking email address validator, which caught 100% of email addresses with an
-invalid domain.</li>
                             <li className="li-text-left">Sync data between different portal, which could be used to improve user experience.</li>
                         </List>   
                     </div>
